@@ -30,8 +30,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Tr4kinas54/Tr4kinas54/output/snake.svg" alt="Snake animation" />
 
 ###
