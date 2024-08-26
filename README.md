@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://s3.amazonaws.com/comicgeeks/characters/avatars/17309.jpg?t=1715264241"  />
+
 
 ###
 
