@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/9af629be707d78c794a66e7d42563af976b2084511cf64a8647f8000c207ed03/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6d69636765656b732f636861726163746572732f617661746172732f31373330392e6a70673f743d31373135323634323431"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
